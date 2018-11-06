@@ -114,11 +114,12 @@ body {
 .text-center {
     color:white;
     font-family: 'Lato', sans-serif;
+    font-size:17px;
+    border-color: #02B875;
+    background-color: #fff;
 }
 
-#password-reset {
-    margin-top:20px;
-}
+
 
 #sign-up-button {
     background-color: #5bc0de;
@@ -132,4 +133,20 @@ body {
     padding-top:0px;
     padding-bottom: 0px;
     margin-left:15px;
+}
+
+#home-button {
+    margin-top:25px;
+    
+    
+
+}
+
+#home-icon {
+    width:30px;
+    height: 30px;
+}
+.fa-home {
+    background-color: #d9534f;
+
 }
